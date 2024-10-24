@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "oppimistehtava3-asunnonvalittajan-kuvaussovellus-edasa006-xamk",
+    "slug": "oppimistehtava3-asunnonvalittajan-kuvaussovellus-edasa006-xamk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa21a1c6-a5bf-4bb8-88e2-24479f43caca"
+      }
+    }
+  }
+}
